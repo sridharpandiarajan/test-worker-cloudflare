@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "test-worker-cloudflare",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4c1f589d-79cf-4940-a696-d8a44d06d0b3",
+      "database_name": "floral-night-540d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
